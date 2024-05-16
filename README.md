@@ -8,7 +8,7 @@
     He hecho un par de videojuegos con Unity y también he desarrollado un sistema ERP de código abierto usando una arquitectura basada en microservicios. Este último   proyecto se puede encontrar en mis repositorios de GitHub.
     </p>
     <p>
-    Actualmente estoy buscando trabajo de desarrollador Front-end con React, pero también me gusta trabajar en el Back-end con Go y NodeJS. 
+    Trabajo en una multinacional llamada Sopra Steria y soy uno de los backend que forman la empresa 
     Me gusta el desarrollo web, los videojuegos, resolver problemas y tocar la guitarra.
     </p>
     <p>
