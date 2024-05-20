@@ -11,3 +11,4 @@ Trabajo en una multinacional llamada Sopra Steria y soy uno de los backend que f
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chemchu&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chemchu&theme=onedark)
