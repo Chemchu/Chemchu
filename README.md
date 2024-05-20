@@ -10,5 +10,12 @@ Trabajo en una multinacional llamada Sopra Steria y soy uno de los backend que f
   <img width="350" src="https://media.giphy.com/media/vZHyJksJ5xCjjBOIbd/giphy.gif">
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chemchu&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chemchu&theme=onedark)
+## GitHub Summary 📝
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chemchu&theme=onedark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chemchu&theme=onedark">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chemchu&theme=onedark">
+</p>
