@@ -6,11 +6,7 @@ I enjoy web development, video games, problem-solving, and playing the guitar.
 
 Thank you for everything!
 
-<p align="center">
-  <img width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpoaWVrdjF5NHhzcjgyODVnZTFtc3I2ZnA0aDllMWZkaGdxNHk1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FxJBpNTBgWdJCXKD4/giphy.gif">
-</p>
-
-## GitHub Summary 📝
+### GitHub Summary 📝
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chemchu&theme=onedark">
@@ -29,3 +25,9 @@ Thank you for everything!
 
 ### Let's Collaborate! 🤝
 Feel free to explore my repositories, and if you'd like to collaborate on a project or just chat, don't hesitate to reach out!
+
+<p align="center">
+  <img width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpoaWVrdjF5NHhzcjgyODVnZTFtc3I2ZnA0aDllMWZkaGdxNHk1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FxJBpNTBgWdJCXKD4/giphy.gif">
+  <img width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJjdzJhNTBtcDBxb2huOW44bThsYTlndG1pandjY2NsMTN1cGV4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yXRIeLSLlcta29f69K/giphy.gif">
+  (vibing)
+</p>
