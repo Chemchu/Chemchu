@@ -17,13 +17,6 @@ Thank you for everything!
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chemchu&theme=onedark">
 </p>
 
-### Skills 🛠️
-- **Programming Languages:** Java, JavaScript/Typescript, Rust, Go
-- **Backend Frameworks:** Spring Boot, Actix, ExpressJS
-- **Frontend Frameworks:** NextJS,  SvelteKit
-- **Tools:** Docker, Kubernetes, Git, Jenkins
-- **Databases:** MySQL, MongoDB, PostgreSQL
-
 ### Let's Collaborate! 🤝
 Feel free to explore my repositories, and if you'd like to collaborate on a project or just chat, don't hesitate to reach out!
 
