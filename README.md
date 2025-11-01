@@ -10,7 +10,8 @@ Thank you for everything!
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chemchu&theme=onedark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chemchu&theme=onedark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chemchu&theme=onedark&exclude=python,html">
+  
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chemchu&theme=onedark">
