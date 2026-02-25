@@ -9,7 +9,7 @@ Thank you for everything!
 ### GitHub Summary 📝
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chemchu&theme=onedark&exclude=python,html">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chemchu&theme=onedark&exclude=python,html,javascript">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chemchu&theme=onedark">
   
 </p>
